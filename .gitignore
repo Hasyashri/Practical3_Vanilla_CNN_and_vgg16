@@ -1,0 +1,39 @@
+# ignore vivrtual environment
+venv/
+# ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+# ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# ignore logs
+*.log
+# ignore coverage reports
+.coverage
+# ignore IDE specific files
+.idea/
+# ignore big data files
+*.csv
+data/kaggle_dogs_vs_cats/train/
+# ignore environment files
+.env    
+# ignore temporary files
+*.tmp
+# ignore backup files
+*~
+# ignore system files
+.DS_Store
+Thumbs.db
+# ignore Python virtual environment
+venv/
+# ignore configuration files
+*.cfg
+# ignore test files
+tests/
+# ignore documentation files
+docs/
