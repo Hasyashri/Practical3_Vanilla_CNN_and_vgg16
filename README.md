@@ -18,15 +18,14 @@ The goal is to compare these models' performances and analyze their strengths an
 ---
 
 ## Project Structure
-Practical3_Vanilla_CNN_and_vgg16/
 
-Dataset folder: - data/kaggle_dogs_vs_cats_small/  
-Main notebook : - Lab3_VanillaCNN_VGG_dogsandcats.ipynb 
-Best model weights for Vanilla CNN :- vanilla_best.h5  
-Best model weights for VGG16 :- vgg16_best.h5 #
-Python dependencies :- requirements.txt 
-.gitignore
-Project documentation :- README.md 
+- Dataset folder: - data/kaggle_dogs_vs_cats_small/  
+- Main notebook : - Lab3_VanillaCNN_VGG_dogsandcats.ipynb 
+- Best model weights for Vanilla CNN :- vanilla_best.h5  
+- Best model weights for VGG16 :- vgg16_best.h5 #
+- Python dependencies :- requirements.txt 
+- .gitignore
+- Project documentation :- README.md 
 
 
 ---
